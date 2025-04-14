@@ -1,0 +1,75 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+
+# IDEs and editors
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Pytest
+.cache/
+*.cover
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.dmypy.json.5
+
+# Pyre type checker
+.pyre/
+
+# pipenv
+Pipfile.lock
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# coverage.py
+.coverage
+.coverage.*
+
+# tox
+.tox/
+.nox/
+
+# pyenv
+.python-version
+
+# flake8
+.flake8
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains
+*.iml
