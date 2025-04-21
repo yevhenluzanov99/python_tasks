@@ -25,7 +25,7 @@ env/
 # Pytest
 .cache/
 *.cover
-*.log
+
 
 # Jupyter Notebook
 .ipynb_checkpoints/
