@@ -9,7 +9,7 @@ class StudentAdmin(admin.ModelAdmin):
         "first_name",
         "last_name",
         "phone_number",
-    )  # адаптуйте під свої поля
+    )
     search_fields = ("first_name", "last_name")
     list_filter = ("course",)
     list_per_page = 10
